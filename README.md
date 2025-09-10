@@ -1,4 +1,4 @@
-# Product Recommendation System
+# Personalized Fashion Recommendation System
 
 This project implements a **machine learning–based recommendation system** designed to personalize product suggestions for users, similar to the systems powering leading e-commerce platforms like Myntra.  
 It combines **content-based filtering** and **collaborative filtering** approaches to recommend products based on user preferences, browsing history, and interactions.
